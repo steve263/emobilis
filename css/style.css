@@ -1,0 +1,179 @@
+h3{
+            color: chocolate;
+            font-size: 20px;
+            font-family: Dialog;
+            text-align: center;
+            text-decoration: underline;
+            margin-top: 50px;
+}
+ body{
+            background-color: cyan;
+            padding: 20px;
+            margin: 20px;
+
+        }
+  h5{
+            color: blueviolet;
+            text-align: left;
+            font-size: 25px;
+            margin-bottom: 27px;
+
+        }
+  p{
+            color: darkgoldenrod;
+            font-size: 20px;
+            text-align: justify;font-family: "Droid Sans Mono Dotted";
+            font_style:normal;
+
+
+
+        }
+  a{
+            margin: 10px;
+            padding: 20px;
+
+
+
+        }
+  .one{
+    background-color: indigo;
+    width: 80%;
+    margin: auto;
+    padding: 15px;
+
+}
+  .two{
+    background-color: slategrey;
+    width: 80%;
+    margin: auto;
+    padding: 15px;
+}
+  .three{
+    background-color: khaki;
+    width: 80%;
+    margin: auto;
+    padding: 15px;
+
+}
+  /*contact*/
+  body{
+            background-color: cyan;
+        }
+        a{
+            margin: 20px;
+        }
+        button{
+            padding:20px;
+            background-color: blueviolet;
+            border-radius: 10px;
+            margin: 5px;
+
+        }
+        #head-one{
+            background-color: lightseagreen;
+         /*width: 70%;*/
+            margin: auto;
+            /*padding: 0 70px 0 70px;*/
+        }
+        #head-two{
+            background-color:green;
+            /*width:70%;*/
+            margin: auto;
+            /*padding: 0 70px 0 70px;*/
+        }
+        #head-three{
+            background-color:greenyellow;
+            /*width: 70%;*/
+            margin: auto;
+            /*padding: 0 70px 0 70px*/
+
+
+
+
+        }
+        .master{
+
+            width: 100%;
+            overflow: auto;
+
+
+
+        }
+        .master div{
+            width: 33%;
+            float: left;
+        }
+        table,th,td{
+            border: 2px solid black;
+            border-collapse:collapse;
+
+        }
+        th,td{
+            background-color: lightgreen;
+            border-color: indigo;
+        }
+        td{
+            text-align: center;
+        }
+        table{
+            border-spacing: 40px;
+        }
+        /*login*/
+ body{background-color: mediumorchid;
+
+       }
+        button{
+            background-color: cyan;
+            padding: 20px;
+            border-radius: 10px;
+        }
+        a{
+            margin: 10px;
+            padding: 10px;
+        }
+        /*style*/
+      a{
+            background-color:black;
+            margin: 20px;
+            padding: 10px;
+
+        }
+        button{
+            background-color: burlywood;
+        }
+        .one{
+            background-color: darkslategray;
+            margin: auto;
+            width: 80%;
+            padding: 15px;
+        }
+        .two{
+            background-color: darkslateblue;
+            margin:20px;
+            width:80% ;
+            padding: 15px;
+
+
+        }
+        .lion{
+            background-color: olivedrab;
+            margin:auto ;
+            width:80% ;
+            padding: 15px;
+        }
+/*registration*/
+form{
+    background-color: mediumturquoise;
+width: 340px;
+    padding: 20px;
+    border-radius: 20px;
+
+
+
+
+}
+
+
+
+
+
